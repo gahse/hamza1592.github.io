@@ -28,6 +28,7 @@ color:
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+  secondary-rgb: "44, 62, 80"
 
 # Footer settings
 footer:
@@ -38,7 +39,7 @@ footer:
   resume: Resume
   download_resume: Download Resume
 resume:
-  url: resume/resume.pdf
+  url: resume/resume-HamzaQureshi.pdf
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
